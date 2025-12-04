@@ -1,3 +1,7 @@
+## New Version / Alternative
+A similar mod that is kept up to date can be found here:  
+https://rpghq.org/forums/viewtopic.php?t=3175
+
 # Highlight Samples mod for Helldivers 2 (Outdated)
 
 **Disclaimer:** The mod isn't made by me and I don't know who is the author.  
